@@ -1,0 +1,4 @@
+name: Spray
+version: '${version}'
+main: com.github.kacperleague9.spray.Spray
+api-version: 1.18
